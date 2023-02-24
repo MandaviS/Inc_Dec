@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Inc_Dec/static/css/main.e7468afd.css",
+    "main.js": "/Inc_Dec/static/js/main.4ac750c8.js",
+    "index.html": "/Inc_Dec/index.html",
+    "main.e7468afd.css.map": "/Inc_Dec/static/css/main.e7468afd.css.map",
+    "main.4ac750c8.js.map": "/Inc_Dec/static/js/main.4ac750c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.4ac750c8.js"
+  ]
+}
